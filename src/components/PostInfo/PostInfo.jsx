@@ -1,7 +1,7 @@
 import './PostInfo.scss';
 
-import { CommentList } from "../CommentList";
-import { UserInfo } from "../UserInfo";
+import { CommentList } from '../CommentList';
+import { UserInfo } from '../UserInfo';
 
 function existComment(comments) {
   if (!comments || comments.length === 0) {

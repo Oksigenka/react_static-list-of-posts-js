@@ -1,6 +1,6 @@
 import './CommentList.scss';
 
-import { CommentInfo } from "../CommentInfo";
+import { CommentInfo } from '../CommentInfo';
 
 export const CommentList = ({ comments }) => {
   return (
